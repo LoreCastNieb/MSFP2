@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Modelado de Sistemas Fisiológicos: Sistema
+  Musculoesquelético
+message: Lenguaje M; Phyton
+type: software
+authors:
+  - given-names: Lorena Lizel
+    family-names: Castañeda Nieblas
+    email: l23210695@tectijuana.edu.mx
+    affiliation: Tecnm-itt
+identifiers:
+  - type: url
+    value: 'https://github.com/LoreCastNieb/MSFP2/tree/main'
+repository-code: 'https://github.com/LoreCastNieb/MSFP2/tree/main'
+keywords:
+  - Modelado Matematico
+  - Circuito RLC
+  - Simulacion Numerica
+  - Controlador PI
+  - Sistema Cardiovascular
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-04'
